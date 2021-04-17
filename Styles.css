@@ -1,0 +1,62 @@
+#jumboContainer{
+    color: white;
+}
+
+.jumbotron{
+    height: 350px;
+    position: relative;
+    z-index: -1;
+}
+
+#mainContainer{
+    z-index: 1;
+    margin-top: -100px;
+    border-radius: 25px;
+    box-shadow: 5px 10px 8px #aaaaaa;
+    border-top: 1px solid lightgrey;
+    border-bottom: #2f3134 solid 0px;
+    background-color: white;
+}
+
+.jumbotron{
+    background-image: url("Banner.png");
+    background-size: cover;
+}
+
+.title{
+    text-align: center;
+    padding: 20px;
+}
+
+.heading{
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 20px;
+    padding-left: 20px;
+}
+
+.infoText{
+    padding-left: 30px;
+}
+
+.horz{
+    width: 400px;
+    margin-top: -15px;
+}
+
+#footer{
+    color: white;
+    background-color: #2f3134;
+    text-align: center;
+    border-radius: 0px 0px 25px 25px;
+}
+
+.footTitle{
+    margin-top: 15px;
+    padding: 10px;
+}
+
+.links{
+    color: white;
+}
+
+

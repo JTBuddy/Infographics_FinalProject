@@ -24,14 +24,7 @@
         <div class="container" id="mainContainer">
             
                 <div class="row">
-                    <div class="col-12">
                         <h3 class="heading">OS Systems</h3>
-                    </div>
-                    
-                    <div class="col-12">
-                        <!-- <p class="infoText" style="padding-left: 45px;">test</p> -->
-                   
-                    </div>
                 </div>
 
                 <div class="row" id="infoRow">

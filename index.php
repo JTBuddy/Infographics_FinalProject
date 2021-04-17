@@ -30,7 +30,7 @@
                     
                     <div class="col-12">
                         <!-- <p class="infoText" style="padding-left: 45px;">test</p> -->
-                        <!-- <div id="all-comparison-ww-monthly-201103-202103" width="900" height="400" style="width:900px; height: 400px;"></div><!-- You may change the values of width and height above to resize the chart --><p>Source: <a href="https://gs.statcounter.com/platform-market-share#monthly-201103-202103">StatCounter Global Stats - Platform Comparison Market Share</a></p><script type="text/javascript" src="https://www.statcounter.com/js/fusioncharts.js"></script><script type="text/javascript" src="https://gs.statcounter.com/chart.php?all-comparison-ww-monthly-201103-202103&chartWidth=600"></script> -->
+                   
                     </div>
                 </div>
 

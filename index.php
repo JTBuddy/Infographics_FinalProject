@@ -15,8 +15,8 @@
 
     <div class="jumbotron jumbotron-fluid">
             <div class="container" id="jumboContainer">
-                <h1 style="font-size: 60px;"><!--Infographics and Data--> The Evolution of</h1>
-                <h1 class="strokeText" style="-webkit-text-stroke: 1.5px white; -webkit-text-fill-color: transparent; font-size: 75px;"><!-- Visualisation Project-->Mobile Phones</h1>
+                <h1 style="font-size: 60px; font-family: 'Montserrat', sans-serif;"><!--Infographics and Data--> The Evolution of</h1>
+                <h1 class="strokeText" style="-webkit-text-stroke: 1.5px white; -webkit-text-fill-color: transparent; font-size: 75px; font-family: 'Montserrat', sans-serif;"><!-- Visualisation Project-->Mobile Phones</h1>
             </div>
         </div>
 

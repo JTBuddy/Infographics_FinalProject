@@ -24,7 +24,10 @@
         <div class="container" id="mainContainer">
             
                 <div class="row">
-                        <h3 class="heading">Introduction</h3>
+                  <section id="1">
+                    <h3 class="heading">Introduction</h3>
+                  </section>
+                        
                 </div>
 
                 <div class="row" id="infoRow">
@@ -37,7 +40,7 @@
 
                 <div class="row" id="footer">
                     <div class="col">
-                        <h4 class="footTitle"><a class="links" href="#">Introduction</a></h4>
+                        <h4 class="footTitle"><a class="links" href="#1">Introduction</a></h4>
                     </div>
 
                     <div class="col">

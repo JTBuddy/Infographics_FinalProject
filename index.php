@@ -24,11 +24,11 @@
         <div class="container" id="mainContainer">
             
                 <div class="row">
-                        <h3 class="heading">OS Systems</h3>
+                        <h3 class="heading">Introduction</h3>
                 </div>
 
                 <div class="row" id="infoRow">
-                    <h3 class="heading">Usage</h3>
+                    <h3 class="heading">Reasons</h3>
                 </div>
 
                 <div class="row" id="infoRow">
@@ -37,15 +37,15 @@
 
                 <div class="row" id="footer">
                     <div class="col">
-                        <h4 class="footTitle"><a class="links" href="#">OS Systems</a></h4>
+                        <h4 class="footTitle"><a class="links" href="#">Introduction</a></h4>
                     </div>
 
                     <div class="col">
-                        <h4 class="footTitle"><a class="links" href="#">Brand Usage</a></h4>
+                        <h4 class="footTitle"><a class="links" href="#">Reasons</a></h4>
                     </div>
 
                     <div class="col">
-                        <h4 class="footTitle"><a class="links" href="#">Test</a></h4>
+                        <h4 class="footTitle"><a class="links" href="#">References</a></h4>
                     </div>
                 </div>
                 

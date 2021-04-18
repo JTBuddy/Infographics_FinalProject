@@ -16,39 +16,36 @@
     <div class="jumbotron jumbotron-fluid">
             <div class="container" id="jumboContainer">
                 <h1 style="font-size: 60px; font-family: 'Montserrat', sans-serif;"><!--Infographics and Data--> The Evolution of</h1>
-                <h1 class="strokeText" style="-webkit-text-stroke: 1.5px white; -webkit-text-fill-color: transparent; font-size: 75px;"><!-- Visualisation Project-->Mobile Phones</h1>
+                <h1 class="strokeText" style="-webkit-text-stroke: 1.5px white; -webkit-text-fill-color: transparent; font-size: 75px; font-family: 'Montserrat', sans-serif;"><!-- Visualisation Project-->Mobile Phones</h1>
             </div>
         </div>
 
 
         <div class="container" id="mainContainer">
             
-                <div class="row">
-                  <section id="1">
+                <div class="row" id="section1">
                     <h3 class="heading">Introduction</h3>
-                  </section>
-                        
                 </div>
 
-                <div class="row" id="infoRow">
+                <div class="row" id="section2">
                     <h3 class="heading">Reasons</h3>
                 </div>
 
-                <div class="row" id="infoRow">
+                <div class="row" id="section3">
                     <h3 class="heading">References</h3>
                 </div>
 
                 <div class="row" id="footer">
                     <div class="col">
-                        <h4 class="footTitle"><a class="links" href="#1">Introduction</a></h4>
+                        <h4 class="footTitle"><a class="links" href="#section1">Introduction</a></h4>
                     </div>
 
                     <div class="col">
-                        <h4 class="footTitle"><a class="links" href="#">Reasons</a></h4>
+                        <h4 class="footTitle"><a class="links" href="#section2">Reasons</a></h4>
                     </div>
 
                     <div class="col">
-                        <h4 class="footTitle"><a class="links" href="#">References</a></h4>
+                        <h4 class="footTitle"><a class="links" href="#section3">References</a></h4>
                     </div>
                 </div>
                 

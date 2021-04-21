@@ -34,7 +34,7 @@
                   
                   <br><br>
                   
-                    <img src="PhoneHistory.png" alt="Phone History">
+                    <img src="PhoneHistory.png" alt="Phone History" style="width: 100%;">
                   
                   <br><br>
                   

@@ -48,6 +48,7 @@
 
                 <div class="row" id="section3">
                     <h3 class="heading">References</h3>
+                    <p><a href="https://data.world/makeovermonday/2019w47">2015-2019 Ownership of Phones</a></p>
                 </div>
 
                 <div class="row" id="footer">
@@ -61,8 +62,6 @@
 
                     <div class="col">
                         <h4 class="footTitle"><a class="links" href="#section3">References</a></h4>
-                      
-                      <p><a href="https://data.world/makeovermonday/2019w47">2015-2019 Ownership of Phones</a></p>
                     </div>
                 </div>
                 

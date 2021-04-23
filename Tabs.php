@@ -19,8 +19,8 @@
     </i>
   </p>
   <ul class="nav nav-pills">
-    <li class="active"><a data-toggle="pill" href="#home">Index</a></li>
-    <li><a data-toggle="pill" href="#menu1">Comparison</a></li>
+    <li style="font-size: 25px;" class="active"><a data-toggle="pill" href="#home">Index</a></li>
+    <li style="font-size: 25px;"><a data-toggle="pill" href="#menu1">Comparison</a></li>
   </ul>
   
   <div class="tab-content">

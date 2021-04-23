@@ -47,6 +47,10 @@
                   <!-- Android vs iPhone from Google Trends Comparison -->
                   <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2431_RC04/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/027lnzs","geo":"","time":"all"},{"keyword":"Android","geo":"","time":"all"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=%2Fm%2F027lnzs,Android","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
           
+                  <br>
+                  
+                  <?php include 'Tabs.php'?>
+                  
                 </div>
 
                 <div class="row" id="section3">

@@ -50,6 +50,7 @@
                   
                   <!-- Android -->
                   <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2431_RC04/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"Android","geo":"US","time":"2004-01-01 2021-04-23"}],"category":0,"property":""}, {"exploreQuery":"date=all&geo=US&q=Android","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>
+                  
                 </div>
 
                 <div class="row" id="section3">

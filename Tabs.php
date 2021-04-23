@@ -11,8 +11,13 @@
 <body>
 
 <div class="container">
-  <h2>Dynamic Pills</h2>
-  <p>To make the tabs toggleable, add the data-toggle="pill" attribute to each link. Then add a .tab-pane class with a unique ID for every tab and wrap them inside a div element with class .tab-content.</p>
+  <h2>iPhone vs Android</h2>
+  <p style="padding: 40px;">
+  Below show the interest of both iPhone and Adroid on Google. The values are displayed as such: 
+    <i>
+    Numbers represent search interest relative to the highest point on the chart for the given region and time. A value of 100 is the peak popularity for the term. A value of 50 means that the term is half as popular. A score of 0 means there was not enough data for this term.
+    </i>
+  </p>
   <ul class="nav nav-pills">
     <li class="active"><a data-toggle="pill" href="#home">Index</a></li>
     <li><a data-toggle="pill" href="#menu1">Comparison</a></li>

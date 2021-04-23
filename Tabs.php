@@ -28,6 +28,7 @@
       <h3>HOME</h3>
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
     </div>
+    
     <div id="menu1" class="tab-pane fade">
  <!-- Android vs iPhone from Google Trends Comparison -->
                   <script type="text/javascript" src="https://ssl.gstatic.com/trends_nrtr/2431_RC04/embed_loader.js"></script> <script type="text/javascript"> trends.embed.renderExploreWidget("TIMESERIES", {"comparisonItem":[{"keyword":"/m/027lnzs","geo":"","time":"all"},{"keyword":"Android","geo":"","time":"all"}],"category":0,"property":""}, {"exploreQuery":"date=all&q=%2Fm%2F027lnzs,Android","guestPath":"https://trends.google.com:443/trends/embed/"}); </script>

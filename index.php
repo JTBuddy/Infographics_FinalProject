@@ -50,7 +50,12 @@
 
                 <div class="row" id="section3">
                     <h3 class="heading">References</h3>
-                    <p><a href="https://data.world/makeovermonday/2019w47">2015-2019 Ownership of Phones</a></p>
+                </div>
+          
+                <div>
+                  <p><a href="https://data.world/makeovermonday/2019w47">2015-2019 Ownership of Phones</a></p>
+                  <p><a href="https://data.world/makeovermonday/2019w47">2015-2019 Ownership of Phones</a></p>
+                  <p><a href="https://data.world/makeovermonday/2019w47">2015-2019 Ownership of Phones</a></p>
                 </div>
 
                 <div class="row" id="footer">

@@ -24,40 +24,32 @@
         <div class="container" id="mainContainer">
             
                 <div class="row" id="section1">
-                    <h3 class="heading">Introduction</h3>
-                </div>
+                    <h3 class="heading" style="padding-left: 20px;">Introduction</h3>
+                    <p style="font-size: 20px; padding: 0px 50px 0px 50px;">With the explosive popularity with social media apps like Facebook, Instagram and Twitter I believe that this one of the main catalysts of the rapid growth of mobile phone usage.</p>
+                </div> <!-- end of section1 -->
 
                 <div class="row" id="section2">
-                    <h3 class="heading">Reasons</h3>
-                  
-                  <div class='tableauPlaceholder' id='viz1618945252256' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;So&#47;SocialMediaUsers_16189163637930&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='SocialMediaUsers_16189163637930&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;So&#47;SocialMediaUsers_16189163637930&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1618945252256');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-                  
-                  <br><br>
-                  
+                    <!-- Banner Image -->
                     <img src="PhoneHistory.png" alt="Phone History" style="width: 100%;">
-                  
-                  <br><br>
-                  
-                  <div class='tableauPlaceholder' id='viz1618983714401' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2015-2019_16189541089420&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='2015-2019_16189541089420&#47;Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;20&#47;2015-2019_16189541089420&#47;Dashboard1&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1618983714401');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1300px';vizElement.style.height='527px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1300px';vizElement.style.height='527px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-                  
-                  <div>
-                    <p style="padding: 40px;">With the explosive popularity with social media apps like Facebook, Instagram and Twitter I believe that this one of the main catalysts of the rapid growth of mobile phone usage.</p>
-                  </div>
-               
-                  <?php include 'Tabs.php'?>
-                  
-                </div>
+
+                    <h3 class="heading" style="padding-left: 20px; margin-top: -50px;">Reasons</h3>
+
+                    <!-- Tabs -->
+                    <?php include 'Tabs.php'?>
+
+                </div> <!-- end of section2 -->
 
                 <div class="row" id="section3">
-                    <h3 class="heading">References</h3>
-                </div>
+                    <h3 class="heading" style="padding-left: 20px;">References</h3>
+                </div> <!-- end of section3 -->
           
                 <div>
-                  <p><a href="https://data.world/makeovermonday/2019w47">2015-2019 Ownership of Phones</a></p>
-                  <p><a href="https://data.world/makeovermonday/2019w47">2015-2019 Ownership of Phones</a></p>
-                  <p><a href="https://data.world/makeovermonday/2019w47">2015-2019 Ownership of Phones</a></p>
+                  <p style="font-size: 20px; padding-left: 50px;"><a href="https://data.world/makeovermonday/2019w47">2015-2019 Ownership of Phones</a></p>
+                  <p style="font-size: 20px; padding-left: 50px;"><a href="https://data.world/makeovermonday/2019w47">Social Media Graph</a></p>
+                  <p style="font-size: 20px; padding-left: 50px;"><a href="https://data.world/makeovermonday/2019w47">Brands Sold Yearly Graph</a></p>
                 </div>
 
+                <!-- footer -->
                 <div class="row" id="footer">
                     <div class="col">
                         <h4 class="footTitle"><a class="links" href="#section1">Introduction</a></h4>
@@ -70,13 +62,11 @@
                     <div class="col">
                         <h4 class="footTitle"><a class="links" href="#section3">References</a></h4>
                     </div>
-                </div>
-                
-            
+                </div> <!-- end of footer-->
+      
         </div> <!-- end of container -->
     
     <br>
 
-    
   </body>
 </html>
